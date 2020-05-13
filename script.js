@@ -1,0 +1,2 @@
+
+alert("Script loaded");
